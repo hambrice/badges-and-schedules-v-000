@@ -20,5 +20,4 @@ def batch_badge_creator (array)
   def printer (array)
    batch_badge_creator(array).each do 
    assign_rooms(array)
-   binding.pry
  end
