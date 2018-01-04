@@ -21,5 +21,3 @@ def batch_badge_creator (array)
    puts batch_badge_creator(array)
    puts assign_rooms(array)
  end
- array=["Brad", "Jessica", "Matt"]
- printer(array)
